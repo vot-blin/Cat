@@ -1,0 +1,15 @@
+C:\Users\User\Projects\CatSolution\Cat.Core\bin\Debug\net9.0\Cat.Core.deps.json
+C:\Users\User\Projects\CatSolution\Cat.Core\bin\Debug\net9.0\Cat.Core.runtimeconfig.json
+C:\Users\User\Projects\CatSolution\Cat.Core\bin\Debug\net9.0\Cat.Core.dll
+C:\Users\User\Projects\CatSolution\Cat.Core\bin\Debug\net9.0\Cat.Core.pdb
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.csproj.AssemblyReference.cache
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.AssemblyInfoInputs.cache
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.AssemblyInfo.cs
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.sourcelink.json
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.dll
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\refint\Cat.Core.dll
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.pdb
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\Cat.Core.genruntimeconfig.cache
+C:\Users\User\Projects\CatSolution\Cat.Core\obj\Debug\net9.0\ref\Cat.Core.dll

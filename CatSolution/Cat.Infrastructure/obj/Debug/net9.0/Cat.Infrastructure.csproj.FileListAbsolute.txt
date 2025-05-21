@@ -1,0 +1,16 @@
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\bin\Debug\net9.0\Cat.Infrastructure.deps.json
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\bin\Debug\net9.0\Cat.Infrastructure.dll
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\bin\Debug\net9.0\Cat.Infrastructure.pdb
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\bin\Debug\net9.0\Cat.Core.dll
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\bin\Debug\net9.0\Cat.Core.pdb
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.sourcelink.json
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infr.BBF5128A.Up2Date
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.dll
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\refint\Cat.Infrastructure.dll
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\Cat.Infrastructure.pdb
+C:\Users\User\Projects\CatSolution\Cat.Infrastructure\obj\Debug\net9.0\ref\Cat.Infrastructure.dll
