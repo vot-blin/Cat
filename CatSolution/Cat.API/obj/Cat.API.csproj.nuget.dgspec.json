@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\Cat.API.csproj": {}
+    "C:\\Users\\User\\CatSolution\\Cat.API\\Cat.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\Cat.API.csproj": {
+    "C:\\Users\\User\\CatSolution\\Cat.API\\Cat.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\Cat.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\CatSolution\\Cat.API\\Cat.API.csproj",
         "projectName": "Cat.API",
-        "projectPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\Cat.API.csproj",
+        "projectPath": "C:\\Users\\User\\CatSolution\\Cat.API\\Cat.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\obj\\",
+        "outputPath": "C:\\Users\\User\\CatSolution\\Cat.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj"
+              "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj"
               },
-              "C:\\Users\\User\\Projects\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj"
+              "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -111,18 +111,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj": {
+    "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj",
         "projectName": "Cat.Core",
-        "projectPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj",
+        "projectPath": "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\CatSolution\\Cat.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,7 +155,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -208,18 +208,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Projects\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj": {
+    "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj",
         "projectName": "Cat.Infrastructure",
-        "projectPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Cat.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -240,8 +240,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Cat.Core.csproj"
+              "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\CatSolution\\Cat.Core\\Cat.Core.csproj"
               }
             }
           }
@@ -256,7 +256,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -271,6 +271,12 @@
               "version": "[9.0.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.5, )"
             },
@@ -303,7 +309,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

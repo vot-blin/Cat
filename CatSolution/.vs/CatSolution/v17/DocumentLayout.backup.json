@@ -1,18 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Projects\\CatSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\CatSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|c:\\users\\user\\projects\\catsolution\\cat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D79BAF6D-4C4C-4CF1-88D9-A27A3385AFE9}|Cat.Infrastructure\\Cat.Infrastructure.csproj|c:\\users\\user\\catsolution\\cat.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79BAF6D-4C4C-4CF1-88D9-A27A3385AFE9}|Cat.Infrastructure\\Cat.Infrastructure.csproj|solutionrelative:cat.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\ringbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\ringbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|c:\\users\\user\\catsolution\\cat.api\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|solutionrelative:cat.api\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\expertring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\expertring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\entities\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\entities\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|c:\\users\\user\\catsolution\\cat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|solutionrelative:cat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\projects\\catsolution\\cat.core\\validation\\catvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\validation\\catvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|c:\\users\\user\\catsolution\\cat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|solutionrelative:cat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\projects\\catsolution\\cat.core\\validation\\ownervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|c:\\users\\user\\catsolution\\cat.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40C1B86C-948C-46AE-A0C2-27CC977A8FAC}|Cat.API\\Cat.API.csproj|solutionrelative:cat.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\validation\\ownervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\validation\\ownervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|c:\\users\\user\\catsolution\\cat.core\\validation\\catvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10024874-FC58-40EE-9B50-F829D3466DFF}|Cat.Core\\Cat.Core.csproj|solutionrelative:cat.core\\validation\\catvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +70,200 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Cat.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Cat.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAsDSxsSgYwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:20:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpertRing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\ExpertRing.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\ExpertRing.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\ExpertRing.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\ExpertRing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:17:55.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ring.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Ring.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\Ring.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Ring.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\Ring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:17:42.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expert.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Expert.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\Expert.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Expert.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\Expert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:17:18.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\Cat.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Cat.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:16:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Club.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\Club.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Club.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:15:32.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Owner.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\Owner.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Owner.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:16:01.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Breed.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\Breed.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\Breed.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\Breed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:15:18.936Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RingBreed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\RingBreed.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Entities\\RingBreed.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Entities\\RingBreed.cs",
+              "RelativeToolTip": "Cat.Core\\Entities\\RingBreed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:18:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.API\\Controllers\\CatsController.cs",
+              "RelativeDocumentMoniker": "Cat.API\\Controllers\\CatsController.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.API\\Controllers\\CatsController.cs",
+              "RelativeToolTip": "Cat.API\\Controllers\\CatsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAEwDkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:18:29.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Cat.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.API\\appsettings.json",
+              "RelativeToolTip": "Cat.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:27:36.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Cat.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.API\\appsettings.Development.json",
+              "RelativeToolTip": "Cat.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:29:34.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OwnerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Validation\\OwnerValidator.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Validation\\OwnerValidator.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Validation\\OwnerValidator.cs",
+              "RelativeToolTip": "Cat.Core\\Validation\\OwnerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:15:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CatValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.Core\\Validation\\CatValidator.cs",
+              "RelativeDocumentMoniker": "Cat.Core\\Validation\\CatValidator.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.Core\\Validation\\CatValidator.cs",
+              "RelativeToolTip": "Cat.Core\\Validation\\CatValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:12:53.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\CatSolution\\Cat.API\\Program.cs",
+              "RelativeDocumentMoniker": "Cat.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\CatSolution\\Cat.API\\Program.cs",
+              "RelativeToolTip": "Cat.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:09:19.555Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -35,49 +272,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OwnerValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Validation\\OwnerValidator.cs",
-              "RelativeDocumentMoniker": "Cat.Core\\Validation\\OwnerValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Validation\\OwnerValidator.cs",
-              "RelativeToolTip": "Cat.Core\\Validation\\OwnerValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T07:15:12.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CatValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Validation\\CatValidator.cs",
-              "RelativeDocumentMoniker": "Cat.Core\\Validation\\CatValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Projects\\CatSolution\\Cat.Core\\Validation\\CatValidator.cs",
-              "RelativeToolTip": "Cat.Core\\Validation\\CatValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T07:12:53.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\Program.cs",
-              "RelativeDocumentMoniker": "Cat.API\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Projects\\CatSolution\\Cat.API\\Program.cs",
-              "RelativeToolTip": "Cat.API\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:09:19.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
